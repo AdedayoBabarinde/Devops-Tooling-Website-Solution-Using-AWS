@@ -1,5 +1,5 @@
 
-# Devops Tooling Website Solution
+# Devops Tooling Website Solution Using AWS
 
 In this Project the set up of NFS shared folders to 3 Apache Web Servers will be demonstrated.
 
@@ -18,9 +18,9 @@ Network /Setup Information
 
 - Infrastructure: AWS
 
-- Webserver Linux: Red Hat Enterprise Linux 8
+- Webserver Linux: Red Hat Enterprise Linux 8 [172.31.41.116]
 
-- Database Server: Ubuntu 20.04 + MySQL
+- Database Server: Ubuntu 20.04 + MySQL [172.31.37.5]
 
 - Storage Server: Red Hat Enterprise Linux 8 + NFS Server
 
